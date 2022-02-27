@@ -1,4 +1,4 @@
-# Lab 26 Caesar Cipher
+# Lab 26 Django Snacks
 
 **Author**: Alex Payne
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)  
