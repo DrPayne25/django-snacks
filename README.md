@@ -2,7 +2,7 @@
 
 **Author**: Alex Payne
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)  
-**PR**: https://github.com/DrPayne25/caesar-cipher/pull/1
+**PR**: https://github.com/DrPayne25/django-snacks/pull/1
 
 ## Overview
 This is the start of a snacks web page that will have a few different pages. 
